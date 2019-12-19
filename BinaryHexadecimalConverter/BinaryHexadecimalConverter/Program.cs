@@ -109,7 +109,7 @@ namespace BinaryHexadecimalConverter
                 case "F":
                     return 15;
                 default:
-                    Console.WriteLine("Error, ReturnHexStringAsInt received an invalid input");
+                    Console.WriteLine("Error, ReturnDataAsInt received an invalid input");
                     return -1;
             }
         }
