@@ -1,0 +1,10 @@
+C:\Users\Sam\source\repos\BinaryHexadecimalConverter\BinaryHexadecimalConverter\obj\Debug\netcoreapp3.0\BinaryHexadecimalConverter.AssemblyInfoInputs.cache
+C:\Users\Sam\source\repos\BinaryHexadecimalConverter\BinaryHexadecimalConverter\obj\Debug\netcoreapp3.0\BinaryHexadecimalConverter.AssemblyInfo.cs
+C:\Users\Sam\source\repos\BinaryHexadecimalConverter\BinaryHexadecimalConverter\bin\Debug\netcoreapp3.0\BinaryHexadecimalConverter.exe
+C:\Users\Sam\source\repos\BinaryHexadecimalConverter\BinaryHexadecimalConverter\bin\Debug\netcoreapp3.0\BinaryHexadecimalConverter.deps.json
+C:\Users\Sam\source\repos\BinaryHexadecimalConverter\BinaryHexadecimalConverter\bin\Debug\netcoreapp3.0\BinaryHexadecimalConverter.runtimeconfig.json
+C:\Users\Sam\source\repos\BinaryHexadecimalConverter\BinaryHexadecimalConverter\bin\Debug\netcoreapp3.0\BinaryHexadecimalConverter.runtimeconfig.dev.json
+C:\Users\Sam\source\repos\BinaryHexadecimalConverter\BinaryHexadecimalConverter\bin\Debug\netcoreapp3.0\BinaryHexadecimalConverter.dll
+C:\Users\Sam\source\repos\BinaryHexadecimalConverter\BinaryHexadecimalConverter\bin\Debug\netcoreapp3.0\BinaryHexadecimalConverter.pdb
+C:\Users\Sam\source\repos\BinaryHexadecimalConverter\BinaryHexadecimalConverter\obj\Debug\netcoreapp3.0\BinaryHexadecimalConverter.dll
+C:\Users\Sam\source\repos\BinaryHexadecimalConverter\BinaryHexadecimalConverter\obj\Debug\netcoreapp3.0\BinaryHexadecimalConverter.pdb
